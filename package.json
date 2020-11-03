@@ -1,10 +1,10 @@
 {
-  "name": "zoom-clone-server",
+  "name": "zoom-clone-server-ahayder",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
   "scripts": {
-    "start": "PROD=true node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
